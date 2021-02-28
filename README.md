@@ -1,3 +1,3 @@
 # itsnotrocketscience-pic
 文档图片仓库
-Token：7a4b12b7f64beb2da7abed0365985c5e8dc7b46a
+Token：2a5340673a67a325660b9fa34087d8a37c875b6e
